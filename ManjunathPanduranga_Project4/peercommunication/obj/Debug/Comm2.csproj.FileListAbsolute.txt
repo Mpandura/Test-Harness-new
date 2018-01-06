@@ -1,0 +1,24 @@
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\Comm2.exe.config
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\Comm2.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\Comm2.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\CS-BlockingQueue.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\Messages.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\Serialization.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\Messages.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\bin\Debug\Serialization.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\obj\Debug\Comm2.csprojResolveAssemblyReference.cache
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\obj\Debug\Comm2.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Comm2\obj\Debug\Comm2.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\Comm2.exe.config
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\Comm2.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\Comm2.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\Messages.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\Messages.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\bin\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\obj\Debug\Comm2.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\obj\Debug\Comm2.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Comm2\obj\Debug\Comm2.pdb

@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Height="20" Width="100" Margin="0,0,300,300" Click="Clicked">add
+        </Button>
+        <ListBox Grid.Row="1" Height="80" Width ="100" Margin="0, 0, 300, 200" Name="TestDriverListBox" />
+        <Button Height="20" Width="100" Margin="0,0,80,300" Click="Clicked">send
+        </Button>
+        <ListBox Grid.Row="1" Height="80" Width ="100" Margin="0, 0, 80, 200" Name="TestCodeListBox" />
+        <Button Height="20" Width="80" Margin="300,0,0,260" Click="UploadFileClicked">Upload Files
+        </Button>
+    </Grid>
+</Window>

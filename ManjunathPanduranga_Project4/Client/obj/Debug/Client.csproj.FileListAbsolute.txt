@@ -1,0 +1,150 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Messages.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Client.exe.config
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Client.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Client.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\ITest.dll
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Logger.dll
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Messages.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\ITest.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Logger.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Messages.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Z\Downloads\InstrSol-Project2\Client\obj\Debug\Client.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Client\obj\Debug\Client.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\communication.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\MessageTest.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Serialization.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\communication.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\MessageTest.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Client\bin\Debug\Serialization.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Client.exe.config
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\obj\Debug\Client.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\obj\Debug\Client.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Client.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Client.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\communication.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\ITest.dll
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Logger.dll
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Messages.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\MessageTest.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Serialization.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\communication.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\ITest.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Logger.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Messages.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\MessageTest.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\bin\Debug\Serialization.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Client.exe.config
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Client.exe
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Client.pdb
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\communication.exe
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\ITest.dll
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Logger.dll
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Messages.exe
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\MessageTest.exe
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Serialization.exe
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\communication.pdb
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\ITest.pdb
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Logger.pdb
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Messages.pdb
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\MessageTest.pdb
+C:\Users\dongc\Desktop\WANGZ\Client\bin\Debug\Serialization.pdb
+C:\Users\dongc\Desktop\WANGZ\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\dongc\Desktop\WANGZ\Client\obj\Debug\Client.exe
+C:\Users\dongc\Desktop\WANGZ\Client\obj\Debug\Client.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Client.exe.config
+C:\Users\Z\Desktop\WANGZ\Client\obj\Debug\Client.exe
+C:\Users\Z\Desktop\WANGZ\Client\obj\Debug\Client.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Client.exe
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Client.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\communication.exe
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\ITest.dll
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Logger.dll
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Messages.exe
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\MessageTest.exe
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Serialization.exe
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\communication.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\ITest.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Logger.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Messages.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\MessageTest.pdb
+C:\Users\Z\Desktop\WANGZ\Client\bin\Debug\Serialization.pdb
+C:\Users\Z\Desktop\WANGZ\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Client.exe.config
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\obj\Debug\Client.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\obj\Debug\Client.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Client.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Client.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\communication.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\ITest.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Messages.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\MessageTest.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\communication.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\ITest.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Messages.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\MessageTest.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\bin\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Client.exe.config
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\obj\Debug\Client.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\obj\Debug\Client.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Client.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Client.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\communication.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\ITest.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Messages.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\MessageTest.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\communication.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\ITest.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Messages.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\MessageTest.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\bin\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Client.exe.config
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\obj\Debug\Client.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\obj\Debug\Client.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Client.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Client.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\communication.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\ITest.dll
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Messages.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\MessageTest.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\communication.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\ITest.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Messages.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\MessageTest.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\bin\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+Manjunath_11_29_2016_20_11_44.0170548.txt
+-----------------------------
+test1
+passed
+demo test that always passes
+-----------------------------
+test2
+failed
+file not loaded
+-----------------------------
+test3
+failed
+demo test that always fails
+-----------------------------
+loggerTest
+passed
+partial test of logger class - did pause : True - didn't write : True - write after unpause : True
+-----------------------------

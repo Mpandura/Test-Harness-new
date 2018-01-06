@@ -1,0 +1,5 @@
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileServiceClient\bin\Debug\FileServiceClient.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileServiceClient\bin\Debug\FileServiceClient.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileServiceClient\obj\x86\Debug\FileServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileServiceClient\obj\x86\Debug\FileServiceClient.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileServiceClient\obj\x86\Debug\FileServiceClient.pdb

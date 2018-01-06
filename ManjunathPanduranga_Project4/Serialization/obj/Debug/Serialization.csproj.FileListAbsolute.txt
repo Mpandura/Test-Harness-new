@@ -1,0 +1,21 @@
+C:\Users\Z\Downloads\InstrSol-Project2\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Z\Downloads\InstrSol-Project2\Serialization\bin\Debug\Serialization.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Serialization\obj\Debug\Serialization.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Serialization\bin\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Serialization\obj\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Serialization\bin\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Serialization\obj\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Serialization\bin\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Serialization\obj\Debug\Serialization.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Serialization\obj\Debug\Serialization.pdb

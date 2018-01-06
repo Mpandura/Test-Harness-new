@@ -1,0 +1,5 @@
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileTransferService\bin\Debug\FileTransferService.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileTransferService\bin\Debug\FileTransferService.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileTransferService\obj\x86\Debug\FileTransferService.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileTransferService\obj\x86\Debug\FileTransferService.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\fileservice\FileTransferService\obj\x86\Debug\FileTransferService.pdb

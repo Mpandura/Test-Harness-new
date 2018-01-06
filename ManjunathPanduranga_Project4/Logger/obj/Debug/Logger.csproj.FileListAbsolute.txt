@@ -1,0 +1,66 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\Logger.dll.config
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\Logger.dll
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\Logger.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\ITest.dll
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\Messages.exe
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\ITest.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\bin\Debug\Messages.pdb
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\obj\Debug\Logger.dll
+C:\Users\Z\Downloads\InstrSol-Project2\Logger\obj\Debug\Logger.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\Logger.dll.config
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\Logger.dll
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\Logger.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\CS-BlockingQueue.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\ITest.dll
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\Messages.exe
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\ITest.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\bin\Debug\Messages.pdb
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\obj\Debug\Logger.dll
+C:\Users\dongc\Desktop\InstrSol-Project2\Logger\obj\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\Logger.dll.config
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\ITest.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\Messages.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\ITest.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\bin\Debug\Messages.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\obj\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\WANGZ\Logger\obj\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\Logger.dll.config
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\ITest.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\Messages.exe
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\ITest.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\bin\Debug\Messages.pdb
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\obj\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\sma mid\Manjunath\Logger\obj\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\Logger.dll.config
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\Logger.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\ITest.dll
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\Messages.exe
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\ITest.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\bin\Debug\Messages.pdb
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\obj\Debug\Logger.dll
+C:\Users\Manjunath Gowda\Desktop\ManjunathPanduranaga_Project4\ManjunathPanduranga_Project4\Logger\obj\Debug\Logger.pdb
